@@ -1,6 +1,6 @@
 # Proj1-cryptoKing
 
-https://raed-ra.github.io/Proj1-cryptoKing/
+https://kane-r.github.io/CryptoKings/
 
 # Welcome to the Crypto Kings source code repository!
 This software enables cryptocurrency traders to rapidly test out trading methods in a protected environment.
