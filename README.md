@@ -1,4 +1,4 @@
-# Proj1-cryptoKing
+# CryptoKings
 
 https://kane-r.github.io/CryptoKings/
 
